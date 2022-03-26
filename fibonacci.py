@@ -22,3 +22,7 @@ if input_n.strip().isdigit() and int(input_n) >= 0:
 else:
     print("That is not a valid positive integer, please try again.")
 
+# OUTPUT:
+# Please enter a positive integer n to find the fibonacci term for: 15
+# The n value entered is: 15 
+# The fibonacci term for that is: 610
