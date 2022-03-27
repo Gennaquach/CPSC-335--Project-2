@@ -40,15 +40,9 @@ while True:
     else:
         print("That is not a valid integer, please try again.")
 
-# Fibonacci sequence using third formula
-# print("\nUsing the third formula:")
-# for x in range(0, n+1):
-#    print(fibonacci_equ_three(x))
 
 # # Golden ratio using fourth formula
 print("\nUsing the fourth formula:")
-# for x in range(0, p+1): 
-#     print(fibonacci_equ_four(n,x), end=", ")
 x = 0
 y = 0
 while x < n+1 and y < p+1:
